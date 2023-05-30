@@ -1,0 +1,80 @@
+
+Time 0
+left Tasks: Task(1, 3, 3)Task(2, 3, 3)Task(3, 3, 3)Task(4, 3, 3)Task(5, 3, 3)Task(6, 3, 3)Task(7, 3, 3)Task(8, 3, 3)Task(9, 3, 3)Task(10, 3, 3)Task(11, 3, 3)Task(12, 3, 3)Task(13, 3, 3)Task(14, 3, 3)Task(15, 3, 3)
+Queue:1 [] there are 0 tasks
+Queue:2 [] there are 0 tasks
+
+Time 1
+left Tasks: Task(1, 3, 3)Task(2, 3, 3)Task(3, 3, 3)Task(4, 3, 3)Task(5, 3, 3)Task(6, 3, 3)Task(7, 3, 3)Task(8, 3, 3)Task(9, 3, 3)Task(10, 3, 3)Task(11, 3, 3)Task(12, 3, 3)Task(13, 3, 3)Task(14, 3, 3)Task(15, 3, 3)
+Queue:1 [] there are 0 tasks
+Queue:2 [] there are 0 tasks
+
+Time 2
+left Tasks: Task(1, 3, 3)Task(2, 3, 3)Task(3, 3, 3)Task(4, 3, 3)Task(5, 3, 3)Task(6, 3, 3)Task(7, 3, 3)Task(8, 3, 3)Task(9, 3, 3)Task(10, 3, 3)Task(11, 3, 3)Task(12, 3, 3)Task(13, 3, 3)Task(14, 3, 3)Task(15, 3, 3)
+Queue:1 [] there are 0 tasks
+Queue:2 [] there are 0 tasks
+
+Time 3
+left Tasks: 
+Queue:1 [Task(1, 3, 3), Task(3, 3, 3), Task(5, 3, 3), Task(7, 3, 3), Task(9, 3, 3), Task(11, 3, 3), Task(13, 3, 3), Task(15, 3, 3)] there are 8 tasks
+Queue:2 [Task(2, 3, 3), Task(4, 3, 3), Task(6, 3, 3), Task(8, 3, 3), Task(10, 3, 3), Task(12, 3, 3), Task(14, 3, 3)] there are 7 tasks
+
+Time 4
+left Tasks: 
+Queue:1 [Task(1, 3, 2), Task(3, 3, 3), Task(5, 3, 3), Task(7, 3, 3), Task(9, 3, 3), Task(11, 3, 3), Task(13, 3, 3), Task(15, 3, 3)] there are 8 tasks
+Queue:2 [Task(2, 3, 2), Task(4, 3, 3), Task(6, 3, 3), Task(8, 3, 3), Task(10, 3, 3), Task(12, 3, 3), Task(14, 3, 3)] there are 7 tasks
+
+Time 5
+left Tasks: 
+Queue:1 [Task(1, 3, 1), Task(3, 3, 3), Task(5, 3, 3), Task(7, 3, 3), Task(9, 3, 3), Task(11, 3, 3), Task(13, 3, 3), Task(15, 3, 3)] there are 8 tasks
+Queue:2 [Task(2, 3, 1), Task(4, 3, 3), Task(6, 3, 3), Task(8, 3, 3), Task(10, 3, 3), Task(12, 3, 3), Task(14, 3, 3)] there are 7 tasks
+
+Time 6
+left Tasks: 
+Queue:1 [Task(3, 3, 3), Task(5, 3, 3), Task(7, 3, 3), Task(9, 3, 3), Task(11, 3, 3), Task(13, 3, 3), Task(15, 3, 3)] there are 7 tasks
+Queue:2 [Task(4, 3, 3), Task(6, 3, 3), Task(8, 3, 3), Task(10, 3, 3), Task(12, 3, 3), Task(14, 3, 3)] there are 6 tasks
+
+Time 7
+left Tasks: 
+Queue:1 [Task(3, 3, 3), Task(5, 3, 3), Task(7, 3, 3), Task(9, 3, 3), Task(11, 3, 3), Task(13, 3, 3), Task(15, 3, 3)] there are 7 tasks
+Queue:2 [Task(4, 3, 3), Task(6, 3, 3), Task(8, 3, 3), Task(10, 3, 3), Task(12, 3, 3), Task(14, 3, 3)] there are 6 tasks
+
+Time 8
+left Tasks: 
+Queue:1 [Task(3, 3, 2), Task(5, 3, 3), Task(7, 3, 3), Task(9, 3, 3), Task(11, 3, 3), Task(13, 3, 3), Task(15, 3, 3)] there are 7 tasks
+Queue:2 [Task(4, 3, 2), Task(6, 3, 3), Task(8, 3, 3), Task(10, 3, 3), Task(12, 3, 3), Task(14, 3, 3)] there are 6 tasks
+
+Time 9
+left Tasks: 
+Queue:1 [Task(3, 3, 1), Task(5, 3, 3), Task(7, 3, 3), Task(9, 3, 3), Task(11, 3, 3), Task(13, 3, 3), Task(15, 3, 3)] there are 7 tasks
+Queue:2 [Task(4, 3, 1), Task(6, 3, 3), Task(8, 3, 3), Task(10, 3, 3), Task(12, 3, 3), Task(14, 3, 3)] there are 6 tasks
+
+Time 10
+left Tasks: 
+Queue:1 [Task(5, 3, 3), Task(7, 3, 3), Task(9, 3, 3), Task(11, 3, 3), Task(13, 3, 3), Task(15, 3, 3)] there are 6 tasks
+Queue:2 [Task(6, 3, 3), Task(8, 3, 3), Task(10, 3, 3), Task(12, 3, 3), Task(14, 3, 3)] there are 5 tasks
+
+Time 11
+left Tasks: 
+Queue:1 [Task(5, 3, 3), Task(7, 3, 3), Task(9, 3, 3), Task(11, 3, 3), Task(13, 3, 3), Task(15, 3, 3)] there are 6 tasks
+Queue:2 [Task(6, 3, 3), Task(8, 3, 3), Task(10, 3, 3), Task(12, 3, 3), Task(14, 3, 3)] there are 5 tasks
+
+Time 12
+left Tasks: 
+Queue:1 [Task(5, 3, 2), Task(7, 3, 3), Task(9, 3, 3), Task(11, 3, 3), Task(13, 3, 3), Task(15, 3, 3)] there are 6 tasks
+Queue:2 [Task(6, 3, 2), Task(8, 3, 3), Task(10, 3, 3), Task(12, 3, 3), Task(14, 3, 3)] there are 5 tasks
+
+Time 13
+left Tasks: 
+Queue:1 [Task(5, 3, 1), Task(7, 3, 3), Task(9, 3, 3), Task(11, 3, 3), Task(13, 3, 3), Task(15, 3, 3)] there are 6 tasks
+Queue:2 [Task(6, 3, 1), Task(8, 3, 3), Task(10, 3, 3), Task(12, 3, 3), Task(14, 3, 3)] there are 5 tasks
+
+Time 14
+left Tasks: 
+Queue:1 [Task(7, 3, 3), Task(9, 3, 3), Task(11, 3, 3), Task(13, 3, 3), Task(15, 3, 3)] there are 5 tasks
+Queue:2 [Task(8, 3, 3), Task(10, 3, 3), Task(12, 3, 3), Task(14, 3, 3)] there are 4 tasks
+
+Not Served Tasks: []
+Average waiting time: 9.0
+Average Service time: 3.0
+Peak hour: 0
